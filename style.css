@@ -74,8 +74,9 @@ body{
     height: 360px;
     background-color: rgb(255, 255, 255);
     display: inline-block;
-    margin-top: 0px;
+    margin-top: 3px;
     margin-left: 3px;
+
     text-align: center;
 }
 
@@ -86,4 +87,51 @@ body{
     padding: 10px;
     text-align: justify;
     bottom: 0;
+}
+
+.section-text{
+  
+    margin: 0;
+    color: #3e3e3e;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+.section-text2{
+  
+    margin: 0;
+    color: #3e3e3e;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+
+}
+.section-news{
+    margin-top: 5px;
+    margin-bottom: 2px; 
+    margin-left: 25px;
+}
+.news{
+
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    height: 240px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    padding-left: 5%;
+}
+
+
+.news-text{
+    color: rgb(134, 37, 37);
+    text-align: justify;
+    width: 80%;
+    padding: 1em 0;
+}
+
+.news-text > span.news-url{
+    text-align: right;
 }
