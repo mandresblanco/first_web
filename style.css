@@ -67,3 +67,23 @@ body{
     width: 1100px;
     height: 500px;
 }
+
+
+.col-3{
+    width: 360px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 3px;
+    text-align: center;
+}
+
+.service-content{
+    padding: 0px;
+}
+.service-text{
+    padding: 10px;
+    text-align: justify;
+    bottom: 0;
+}
