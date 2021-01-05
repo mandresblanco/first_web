@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-    width: 1500px;
+    width: 1310px;
     background-color: #f3ddde;
     height: 2000px;
     -ms-flex-item-align: center;
@@ -13,10 +13,9 @@ body{
     margin: 0px auto;
     padding: 0 auto;
 }
-.header{
-    
-    
-}
+
+/* cabecera */
+
 .barraSuperior{
     display: flex;
     margin-top: 5px;
@@ -54,6 +53,12 @@ body{
     text-decoration: unset;
     color: red;
 }
+/* carrusel */
+.carousel{
+    margin-top: 5px;
+}
+
+
 
 
 
